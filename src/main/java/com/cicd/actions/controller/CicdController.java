@@ -10,7 +10,7 @@ public class CicdController {
 	
 @GetMapping("/message")
 public String message() {
-	return "CICD demo message!";
+	return "CICD demo message! and changed the message now";
 	
 }
 
